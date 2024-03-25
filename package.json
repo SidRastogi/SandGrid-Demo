@@ -1,0 +1,15 @@
+{
+  "name": "test_sendgrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ankur22tyagi@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/client": "^8.1.1",
+    "dotenv": "^16.4.5"
+  }
+}
